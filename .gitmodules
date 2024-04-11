@@ -6,4 +6,4 @@
 	url = git@github.com:TUI-NICR/ESANet.git
 [submodule "MultiBench"]
 	path = MultiBench
-	url = git@github.com:pliang279/MultiBench.git
+	url = git@github.com:Rajeevveera24/MultiBench.git

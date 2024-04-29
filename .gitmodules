@@ -1,9 +1,6 @@
 [submodule "DynMM"]
 	path = DynMM
 	url = git@github.com:Rajeevveera24/DynMM.git
-[submodule "ESANet"]
-	path = ESANet
-	url = git@github.com:TUI-NICR/ESANet.git
 [submodule "MultiBench"]
 	path = MultiBench
 	url = git@github.com:Rajeevveera24/MultiBench.git
